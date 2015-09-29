@@ -1,23 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:20.199708
+#+DATE: 2015-09-28 22:57:26.049770
 #+TITLE: 十地經論
 #+PROPERTY: CBETA_ID T26n1522
 #+PROPERTY: ID KR6e0060
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1522
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGBING
 #+PROPERTY: LASTPB <pb:KR6e0060_T_008-0167c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《十地經論》現前地第六卷之八¶
+《十地經論》現前地第六卷之八¶
 ¶
 天親菩薩造¶
 後魏北印度三藏菩提流支譯¶
 
-6現前地
 論曰。如五地中三分差別勝慢對治不住道¶
 行勝及彼果勝。第六地亦如是。應知轉勝¶
 故。云何勝。第四地中已說眾生我慢解法慢¶
