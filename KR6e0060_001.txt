@@ -1,21 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:19.984017
+#+DATE: 2015-09-28 22:57:27.152897
 #+TITLE: 十地經論
 #+PROPERTY: CBETA_ID T26n1522
 #+PROPERTY: ID KR6e0060
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1522
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0060_T_001-0123a> 
 #+PROPERTY: JUAN 1
-No.1522¶
+No. 1522¶
 
-序
-:PROPERTIES:
-:head: 《十地經論》序
-:END:
-¶
+《十地經論》序¶
 ¶
 侍中崔光製¶
 
@@ -59,13 +55,11 @@ No.1522¶
 妙說。更興於像世。天親玄旨。再光於季運。¶
 忝廁末筵。敢竊祇記。¶
 ¶
-
- 《十地經論》初歡喜地第一之一¶
+《十地經論》初歡喜地第一之一之一¶
 ¶
 天親菩薩造¶
-後魏北印度三藏菩提流支等譯¶
+後魏北印度三藏菩提流支等譯流支等譯¶
 
-1初歡喜地
 #+BEGIN_VERSE
 「　說此法門者
 　及諸勸請法¶
