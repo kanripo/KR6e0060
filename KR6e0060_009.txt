@@ -1,23 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:20.224969
+#+DATE: 2015-09-28 22:57:26.754534
 #+TITLE: 十地經論
 #+PROPERTY: CBETA_ID T26n1522
 #+PROPERTY: ID KR6e0060
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1522
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6e0060_T_009-0173c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《十地經論》遠行地第七卷之九¶
+《十地經論》遠行地第七卷之九¶
 ¶
 天親菩薩造¶
 後魏北印度三藏菩提流支譯¶
 
-7遠行地
 論曰。第七地中。有五種相差別。一樂無作行¶
 對治差別。二彼障對治差別。三雙行差別。四¶
 前上地勝差別。五彼果差別。云何樂無作行¶
