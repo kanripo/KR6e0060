@@ -1,22 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:20.249888
+#+DATE: 2015-09-28 22:57:25.486904
 #+TITLE: 十地經論
 #+PROPERTY: CBETA_ID T26n1522
 #+PROPERTY: ID KR6e0060
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1522
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6e0060_T_010-0179a> 
 #+PROPERTY: JUAN 10
 ¶
-
- 《十地經論》不動地第八卷之十¶
+《十地經論》不動地第八卷之十¶
 ¶
 天親菩薩造¶
 後魏北印度三藏菩提流支譯¶
 
-8不動地
 論曰。第八地中有七種相差別。一總明方便¶
 作集地分。二得淨忍分。三得勝行分。四淨佛¶
 國土分。五得自在分。六大勝分。七釋名分。¶
