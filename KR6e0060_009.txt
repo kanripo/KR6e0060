@@ -1,23 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:20.224969
+#+DATE: 2015-09-28 22:57:22.182186
 #+TITLE: 十地經論
 #+PROPERTY: CBETA_ID T26n1522
 #+PROPERTY: ID KR6e0060
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1522
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6e0060_T_009-0173c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《十地經論》遠行地第七卷之九¶
+《十地經論》遠行地第七卷之九¶
 ¶
 天親菩薩造¶
 後魏北印度三藏菩提流支譯¶
 
-7遠行地
 論曰。第七地中。有五種相差別。一樂無作行¶
 對治差別。二彼障對治差別。三雙行差別。四¶
 前上地勝差別。五彼果差別。云何樂無作行¶
@@ -256,7 +254,7 @@
 然王未免人身。若捨人身生於梵世住¶
 梵天宮。見行千世界。示梵王光明威力。爾¶
 時不名為人。佛子。菩薩亦如是。從初地¶
-來乘諸波羅蜜乘行一切世間。亦知世間¶
+來乘諸波羅蜜乘行一切世間。亦如世間¶
 煩惱染過。而不為煩惱過之所染。以乘正¶
 道故。而不名為過七地煩惱染。若菩薩捨¶
 一切功用行。從七地入第八地。爾時名為¶
