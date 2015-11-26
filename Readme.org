@@ -1,13 +1,41 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:57:23.904667
-#+TITLE: 十地經論
-#+PROPERTY: CBETA_ID T26n1522
-#+PROPERTY: ID KR6e0060
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1522
-#+PROPERTY: VOL 26
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS T@MING
+#+TITLE: 十地經論 / T@MING
+#+DATE: 2015-11-26 14:14:06.722145
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@GONG|【大→宮】   |
+ |    T@MING|【大→明】   |
+ | T@NANZANG|【大→南藏】  |
+ |   T@SHENG|【大→聖】   |
+ |T@SHENGBING|【大→聖丙】  |
+ | T@SHENGYI|【大→聖乙】  |
+ |    T@SONG|【大→宋】   |
+ |    T@YUAN|【大→元】   |
+ |     T@ZHI|【大→知】   |
+ |       TKD|【高麗藏・東國影印版】|
 
-<pb:KR6e0060_T_000-0123a>¶
-
-[[file:KR6e0060_001.txt::001-0123a3][《十地經論》序¶]]
+* 目次
+* [[file:KR6e0060_001.txt::001-0123a2][序]]
+* [[file:KR6e0060_001.txt::0123b19][1初歡喜地]]
+* [[file:KR6e0060_004.txt::004-0145b23][2離垢地]]
+* [[file:KR6e0060_005.txt::005-0153a26][3明地]]
+* [[file:KR6e0060_006.txt::006-0159b14][4焰地]]
+* [[file:KR6e0060_007.txt::007-0163a8][5難勝地]]
+* [[file:KR6e0060_008.txt::008-0167c16][6現前地]]
+* [[file:KR6e0060_009.txt::009-0173c20][7遠行地]]
+* [[file:KR6e0060_010.txt::010-0179a6][8不動地]]
+* [[file:KR6e0060_011.txt::011-0186a27][9善慧地]]
+* [[file:KR6e0060_012.txt::012-0193c6][10法雲地]]
+* 卷
+** [[file:KR6e0060_001.txt][十地經論 1]]
+** [[file:KR6e0060_002.txt][十地經論 2]]
+** [[file:KR6e0060_003.txt][十地經論 3]]
+** [[file:KR6e0060_004.txt][十地經論 4]]
+** [[file:KR6e0060_005.txt][十地經論 5]]
+** [[file:KR6e0060_006.txt][十地經論 6]]
+** [[file:KR6e0060_007.txt][十地經論 7]]
+** [[file:KR6e0060_008.txt][十地經論 8]]
+** [[file:KR6e0060_009.txt][十地經論 9]]
+** [[file:KR6e0060_010.txt][十地經論 10]]
+** [[file:KR6e0060_011.txt][十地經論 11]]
+** [[file:KR6e0060_012.txt][十地經論 12]]
